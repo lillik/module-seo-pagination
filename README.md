@@ -1,4 +1,4 @@
-# module-seo-pagination
+# Magento 2 SEO: Pagination
 
 https://github.com/drewdhunter/SeoPagination
 
