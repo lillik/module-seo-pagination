@@ -1,0 +1,3 @@
+<?php foreach ($block->getPageHeaderLinks() as $link):  ?>
+    <link rel="<?php echo $link->getRel() ?>" href="<?php echo $link->getHref() ?>" />
+<?php endforeach; ?>

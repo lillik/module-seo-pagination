@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @copyright  Copyright (c) 2017 LillikPro (http://lillik.pro)
+ * @author     LillikPro <support@lillik.pro>
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="head.additional">
+            <block class="Lillik\SeoPagination\Block\Pagination" name="lillik.seo" as="lillikSeo" template="Lillik_SeoPagination::html/head.phtml" />
+        </referenceContainer>
+    </body>
+</page>
