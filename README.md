@@ -1,7 +1,5 @@
 # Magento 2 SEO: Pagination
 
-https://github.com/drewdhunter/SeoPagination
-
 ### Introduction
 It’s important to include the rel=”prev” & rel=”next” meta tags in your eCommerce site.
 For more information about these meta tags can be founded [here](http://googlewebmastercentral.blogspot.co.uk/2011/09/pagination-with-relnext-and-relprev.html)
