@@ -6,7 +6,7 @@ For more information about these meta tags can be founded [here](http://googlewe
 
 This is Magento 2 extension adds these meta tags into you category pages. 
 
-### Installation
+### Installation Magento 2 Module
 The preferred way of installing lillik/module-seo-pagination is through Composer. 
 Simply add lillik/module-seo-pagination as a dependency:
 
@@ -14,7 +14,7 @@ Simply add lillik/module-seo-pagination as a dependency:
 php composer.phar require lillik/module-seo-pagination
 ```
 
-### Configuration
+### Configuration Magento 2
 
 ```
 Stores -> Configuration -> Catalog -> Search Engine Optimization
